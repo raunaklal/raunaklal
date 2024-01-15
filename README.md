@@ -6,7 +6,7 @@ Python Developer
 
 * 🌍  I'm based in Kolkata
 * ✉️  You can contact me at [raunaklal@gmail.com](mailto:raunaklal@gmail.com)
-* 🧠  I'm learning NodeJS (JavaScript) / Django
+* 🧠  I'm learning NodeJS (JavaScript) / Django (Python)
 
 ### Skills
 
